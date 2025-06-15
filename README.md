@@ -1,4 +1,7 @@
-## Hi there 👋
+## min-gyo park — @mgp.works
+![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pvZDM4MHd5c21sY3JieTN4ejVmbXJna2xmenFoZ3NwaGsyb2ZkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1ctUhPvbyX8A/giphy.gif)
+
+
 
 <!--
 **mgp-works/mgp-works** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
