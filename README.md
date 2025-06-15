@@ -1,5 +1,12 @@
 ## min-gyo park — @mgp.works
-![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pvZDM4MHd5c21sY3JieTN4ejVmbXJna2xmenFoZ3NwaGsyb2ZkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1ctUhPvbyX8A/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pvZDM4MHd5c21sY3JieTN4ejVmbXJna2xmenFoZ3NwaGsyb2ZkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1ctUhPvbyX8A/giphy.gif" width="200" />
+
+
+### You found me!
+
+`✦ Currently working on my personal website.`
+
+`✦ Running on carbs and curiosity.`
 
 
 
